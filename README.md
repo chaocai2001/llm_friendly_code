@@ -1,1 +1,1 @@
-# llm_friendly_code
+# Writing LLM friendly code
