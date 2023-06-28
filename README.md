@@ -1,0 +1,1 @@
+# llm_friendly_code
